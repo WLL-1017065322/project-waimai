@@ -1,87 +1,57 @@
-# boss1
+# project-waimai
 
-## Project setup
-```
-npm install
-```
+## 使用技术
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+vue-cli
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## 使用的非 vue 库
 
-### Run your tests
-```
-npm run test
-```
+## 已完成功能
 
-### Lints and fixes files
-```
-npm run lint
-```
+1 路由切换 vue-router
 
-### Run your end-to-end tests
-```
-npm run test:e2e
-```
+2 首页轮播图 (8 个一组)
 
-### Run your unit tests
-```
-npm run test:unit
-```
+3 列表渲染
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+4 详情页的滑块,点击跳转某个部分的滑块
 
+5 购物车(清空,vuex)
 
+6 评价
 
-项目功能梳理
-在创建项目之前，我们先理一下整个项目的功能模块。
-登录模块
-1.用户输入用户名及密码，调用接口
-  1.1用户名未找到，提示用户“用户名不存在”
-  1.2用户名找到，但密码不匹配，提示用户“密码输入错误”
-  1.3用户名和密码都匹配，登录成功并跳转到主页，同时将用户名存为cookie
-2.加载主页获取cookie
-  2.1cookie不存在，跳转到登录页
-  2.2cookie存在，显示用户名
-  2.3点击注销，删除cookie并跳转到登录页
-3.管理员登录
-  3.1输入管理员用户名及密码，跳转到管理页
-注册模块
-1.用户输入用户名及密码，调用接口
-  1.1注册成功直接跳转到登录页
+7 商家信息
 
-项目整体文件结构如下
-vue
-    build
-    config
-    node
-    src 
-        assets
-            js 
-                cookie.js
-        components
-        router
-        views
-            home
-                home.vue
-            login
-                login.vue
-            main
-                main.vue
-            app.vue
-            main.js
-        
-    static
+8 搜索功能
 
-cookie.js为公共方法，用于cookie的存储、获取及删除
-home.vue为用户登录成功之后的主页
-login.vue为登录注册页
-main.vue为后台管理页
-                
+9 iconfont
+
+10 数据获取 axios
+
+## 准备添加的功能
+
+1 首页的地址(定位/选择)  ---
+
+2 登录注册
+
+3 用户信息
+
+4 订单页面
+
+5 个人详情页
+
+6 路由切换动画
+
+7 加载动画
+
+8 入场动画
+
+9 数据扒取
+
+10 退出登录
+
+11 token 的时间
+
+12 样式改变
+
+## 后端 api

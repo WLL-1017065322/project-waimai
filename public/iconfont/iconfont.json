@@ -1,0 +1,191 @@
+{
+  "id": "1453484",
+  "name": "外卖",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "375764",
+      "name": "积分",
+      "font_class": "jifen",
+      "unicode": "e740",
+      "unicode_decimal": 59200
+    },
+    {
+      "icon_id": "454138",
+      "name": "丽人",
+      "font_class": "liren",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    },
+    {
+      "icon_id": "592408",
+      "name": "mine",
+      "font_class": "mine",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "683710",
+      "name": "sou-suo",
+      "font_class": "search",
+      "unicode": "e680",
+      "unicode_decimal": 59008
+    },
+    {
+      "icon_id": "699660",
+      "name": "小吃-c",
+      "font_class": "xiaochic",
+      "unicode": "e66b",
+      "unicode_decimal": 58987
+    },
+    {
+      "icon_id": "813304",
+      "name": "评价",
+      "font_class": "pingjia",
+      "unicode": "e62d",
+      "unicode_decimal": 58925
+    },
+    {
+      "icon_id": "878533",
+      "name": "旅游",
+      "font_class": "lvyou",
+      "unicode": "e634",
+      "unicode_decimal": 58932
+    },
+    {
+      "icon_id": "956369",
+      "name": "电影",
+      "font_class": "dy-light-copy",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "1103241",
+      "name": "酒店",
+      "font_class": "jiudian",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    },
+    {
+      "icon_id": "1236817",
+      "name": "主页",
+      "font_class": "05",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "2192863",
+      "name": "base",
+      "font_class": "base",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "3273744",
+      "name": "抽奖",
+      "font_class": "choujiang",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "4084145",
+      "name": "券",
+      "font_class": "quan",
+      "unicode": "e63e",
+      "unicode_decimal": 58942
+    },
+    {
+      "icon_id": "4896075",
+      "name": "收 藏",
+      "font_class": "shoucang",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "5513223",
+      "name": "售后",
+      "font_class": "shouhou",
+      "unicode": "e630",
+      "unicode_decimal": 58928
+    },
+    {
+      "icon_id": "6022293",
+      "name": "外卖",
+      "font_class": "waimai",
+      "unicode": "e64c",
+      "unicode_decimal": 58956
+    },
+    {
+      "icon_id": "7350083",
+      "name": "KTV",
+      "font_class": "KTV",
+      "unicode": "eb94",
+      "unicode_decimal": 60308
+    },
+    {
+      "icon_id": "7625121",
+      "name": "qian",
+      "font_class": "qian",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "7796242",
+      "name": "付款",
+      "font_class": "fukuan",
+      "unicode": "e72e",
+      "unicode_decimal": 59182
+    },
+    {
+      "icon_id": "8144767",
+      "name": "美食",
+      "font_class": "meishi",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    },
+    {
+      "icon_id": "8507582",
+      "name": "订单",
+      "font_class": "dd",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "9685492",
+      "name": "返 回",
+      "font_class": "fanhui",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "9687718",
+      "name": "娱乐",
+      "font_class": "yule",
+      "unicode": "e638",
+      "unicode_decimal": 58936
+    },
+    {
+      "icon_id": "9774555",
+      "name": "返 回",
+      "font_class": "fanhui1",
+      "unicode": "e64a",
+      "unicode_decimal": 58954
+    },
+    {
+      "icon_id": "9854405",
+      "name": "全部",
+      "font_class": "quanbu",
+      "unicode": "e648",
+      "unicode_decimal": 58952
+    },
+    {
+      "icon_id": "10405336",
+      "name": "返 回",
+      "font_class": "fanhui2",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    }
+  ]
+}
